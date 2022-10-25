@@ -1,8 +1,8 @@
 import React, { useRef } from "react"
 import type { HeadFC } from "gatsby"
 import { IParallax, Parallax, ParallaxLayer } from "@react-spring/parallax"
-import Page1 from "./page_1"
-import Page2 from "./page_2"
+import Page1 from "../components/page_1"
+import Page2 from "../components/page_2"
 
 
 
